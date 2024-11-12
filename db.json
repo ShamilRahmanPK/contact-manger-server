@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": "c1ea",
+      "name": "Shamil Rahman PK",
+      "phone": "7994203373",
+      "email": "shamil7994@gmail.com",
+      "address": "Kunnappally"
+    },
+    {
+      "id": "ae19",
+      "name": "Syaeed KT",
+      "phone": "8606785978",
+      "email": "sayeedkt78@gmail.com",
+      "address": "Pattambi"
+    }
+  ]
+}
